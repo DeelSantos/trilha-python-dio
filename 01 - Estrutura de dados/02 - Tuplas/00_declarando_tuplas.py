@@ -11,5 +11,6 @@ print(letras)
 numeros = tuple([1, 2, 3, 4])
 print(numeros)
 
-pais = ("Brasil")
+pais = ("Brasil", 
+        )
 print(pais)
